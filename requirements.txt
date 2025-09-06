@@ -1,0 +1,20 @@
+torch
+transformers>=4.30.0
+sentence-transformers
+faiss-cpu
+PyPDF2
+python-docx
+yake
+spacy
+langdetect
+networkx
+matplotlib
+wordcloud
+streamlit
+uvicorn
+fastapi
+
+# optional but recommended
+pdfplumber
+pdfminer.six
+sentencepiece

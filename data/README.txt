@@ -1,0 +1,1 @@
+Please add a sample PDF/TXT/DOCX file here (e.g., sample.pdf) before running the Streamlit app.
